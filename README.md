@@ -1,2 +1,2 @@
-# J-AI-KISAN
+# J'AI-KISAN
 AI-driven solution for optimizing aquaponics systems
